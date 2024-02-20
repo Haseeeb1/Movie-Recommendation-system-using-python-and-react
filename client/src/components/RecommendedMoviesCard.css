@@ -3,6 +3,7 @@
   justify-content: center;
   margin-top: 3rem;
   margin-bottom: 3rem;
+  padding: 20px;
 }
 
 .card {
@@ -12,7 +13,6 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  max-width: 500px;
   height: 300px;
   padding: 35px;
   border: 1px solid rgba(255, 255, 255, 0.25);
