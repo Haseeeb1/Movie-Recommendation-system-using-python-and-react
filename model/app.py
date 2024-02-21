@@ -99,5 +99,3 @@ def get_recommendation():
     recommended_movies = recommend(movie_name)
     return jsonify(recommended_movies)
 
-if __name__ == '__main__':
-    app.run(debug=True)
